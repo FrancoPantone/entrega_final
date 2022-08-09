@@ -1,0 +1,14 @@
+#redes {
+	i {
+		font-size: 20px;
+		padding-left: 25px;
+		color: black;
+		&:hover {
+			font-size: 23px;
+			color: white;
+		}
+	}
+}
+.bg-dark {
+	background-color: #ffe17e !important;
+}
